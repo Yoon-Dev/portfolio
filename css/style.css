@@ -1,0 +1,11 @@
+.petite{
+    background-color: black;
+    height: 200px;
+}
+.grande{
+    background-color: burlywood;
+    height: 400px;
+}
+h1{
+    color: gray;
+}
