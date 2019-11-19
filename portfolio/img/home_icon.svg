@@ -1,0 +1,25 @@
+<svg id="home" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 756.91 717">
+<defs>
+</defs>
+<title>home_icon</title>
+<!-- toit -->
+<g class="cls-1">
+  <polygon id="toit"  points="38.49 377.74 0 333.56 379.17 0 756.91 333.56 718.42 379.17 380.59 76.97 38.49 377.74"/>
+  <!-- cheminé -->
+  <polygon id="chem" points="112.61 186.73 208.12 104.06 208.12 47.04 112.61 47.04 112.61 186.73">
+      <animateMotion 
+        dur="6s"
+        keyTimes="0;0.1;0.9;1"
+        keyPoints="0;0.5;0.5;1"
+        calcMode="linear"
+        begin="0s"
+        repeatCount="indefinite">
+        <mpath xlink:href="#motionPath" />
+    </animateMotion>
+  </polygon>
+  <!-- maison -->
+  <path  id="block" d="M543.05,157.72,808.18,392.91V722.19s0,24.24-12.83,20L625.73,745V599.6s5.7-12.82-14.26-18.53H471.78S459,583.92,459,598.18V743.57L289.32,745s-12.83,0-14.25-20l1.42-332.13Z" transform="translate(-163.88 -28)"/>
+</g>
+  <path d="M0,0 0,-50 z"
+    stroke="none" fill="none" id="motionPath"/>
+</svg>

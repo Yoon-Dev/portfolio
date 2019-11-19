@@ -1,0 +1,43 @@
+<svg id="cv" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 578.73 709.7">
+    <defs>
+    <style>.cls-1{fill:#fff;}.cls-1,.cls-2{stroke:#fff;stroke-miterlimit:10;}</style>
+    </defs>
+    <title>cv_icon</title>
+    <path class="cls-1" d="M263.27,747.7,841,746.78V147.93S825.39,51.49,727.11,43.22s-463.84-1.84-463.84-1.84Z" transform="translate(-262.77 -38.5)"/>
+    <polygon class="cls-2" points="73.98 491.52 73.06 449.27 502 449.27 502 492.44 73.98 491.52">
+        <animateMotion 
+            dur="2s"
+            keyTimes="0;0.35;1"
+            keyPoints="0;0.9;1"
+            calcMode="linear"
+            begin="0s"
+            repeatCount="indefinite">
+            <mpath xlink:href="#polyPath" />
+        </animateMotion>
+    </polygon>
+    <polygon class="cls-2" points="72.14 594.39 504.75 594.39 504.75 639.4 73.98 639.4 72.14 594.39">
+        <animateMotion 
+            dur="2s"
+            keyTimes="0;0.35;1"
+            keyPoints="0;0.9;1"
+            calcMode="linear"
+            begin="0s"
+            repeatCount="indefinite">
+            <mpath xlink:href="#motionPath" />
+        </animateMotion>
+    </polygon>
+    <path d="M431.35,418.88H672.92l2.75-84.5s-1.84-66.13-67-79.91c0,0-6.43,27.56-57,33.07,0,0-36.73.92-56.94-32.15,0,0-60.62,14.7-63.38,74.4S431.35,418.88,431.35,418.88Z" transform="translate(-262.77 -38.5)"/>
+    <circle id="c" cx="288.91" cy="142.49" r="67.05" transition="all 2s linear">
+        <animateMotion 
+            dur="2s"
+            keyTimes="0;0.35;1"
+            keyPoints="0;0.9;1"
+            calcMode="linear"
+            begin="0s"
+            repeatCount="indefinite">
+            <mpath xlink:href="#motionPath" />
+        </animateMotion>
+    </circle>
+    <path d="M0,0 0,-30 0,10 z"
+      stroke="none" fill="none" id="motionPath"/>
+</svg>
